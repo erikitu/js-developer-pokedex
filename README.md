@@ -2,7 +2,7 @@
 
 ## Projeto de uma Pokedex com o objetivo de reforçar:
 <div align="center">
-  <img src="" width="700px">
+  <img src="./assets/to_README/pokedexPreview.png" width="700px">
 </div>
 
 - Estruturação com HTML
